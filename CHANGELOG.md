@@ -3,3 +3,4 @@
 # Changelog
 
 <!-- next version -->
+- logs: fixed body view
